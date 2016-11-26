@@ -1,0 +1,22 @@
+{
+  "name": "multiverse-core",
+  "version": "1.0.0",
+  "description": "Building\r ========\r Simply build the source with maven:",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buddyp450/Multiverse-Core.git"
+  },
+  "author": "buddyp450@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buddyp450/Multiverse-Core/issues"
+  },
+  "homepage": "https://github.com/buddyp450/Multiverse-Core#readme"
+}
